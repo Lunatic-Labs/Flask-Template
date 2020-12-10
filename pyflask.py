@@ -2,7 +2,8 @@
 # Developer ----- Bryce Martin 
 # Description --- This program will get me familiar with using
 #                 python and flask for web applications. I will
-#                 utilize this program for a personal portfolio
+#                 use this framework to create a minimal starting
+#                 for any web application.
 #------------------------------------------------------------------
 
 #importing flask object from flask library
